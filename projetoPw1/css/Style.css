@@ -1,0 +1,105 @@
+.menu {
+  font-size: large;
+  background-color: #506266;
+  margin: 20px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 3px 3px rgba(54, 66, 80, 0.713);
+}
+
+.menu-item {
+  color: #bde038;
+  font-family: "Dhurjati", sans-serif;
+  border-radius: 8px;
+  font-size: 30px;
+  box-shadow: 3px 3px 3px 3px rgba(54, 66, 80, 0.525);
+}
+footer {
+  border-radius: 8px;
+  box-shadow: 3px 3px 3px 3px rgba(54, 66, 80, 0.525);
+  background-color: #506266;
+  color: #bde038;
+  display: flex;
+  justify-content: end;
+}
+.separator-center {
+  color: #10454f;
+}
+body {
+  background-color: #818274;
+}
+.titulo {
+  padding: 10px;
+}
+.god4 {
+  padding-right: 70px;
+}
+.god1 {
+  padding-left: 60px;
+}
+.god2 {
+  padding-left: 40px;
+}
+.img-god {
+  padding: 1px;
+}
+.titulo-segundo {
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+#teste {
+  padding-right: 4px;
+}
+
+.desc,
+.titulo-card,
+#god {
+  font-family: "Metal Mania", cursive;
+  color: #bde038;
+}
+
+.death,
+.point {
+  height: 465px;
+}
+
+.left-thing,
+.middle-thing,
+.right-thing {
+  padding: 5px;
+}
+
+.call1,
+.call2,
+.call3,
+.call4 {
+  height: 388px;
+}
+.desc {
+  font-size: 20px;
+}
+#teste-callout {
+  background-color: #506266;
+}
+#teste-card {
+  background-color: #506266;
+}
+#divisor-card {
+  background-color: #10454f;
+}
+.img-card {
+  height: 420px;
+}
+.form-label {
+  color: #bde038;
+}
+.form-input {
+  background-color: #818274;
+}
+
+.card {
+  height: 1000px;
+}
+.form {
+  margin-top: 30px;
+  height: 348px;
+}
